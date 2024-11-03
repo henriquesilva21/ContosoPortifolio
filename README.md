@@ -5,7 +5,7 @@ Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é
 
 # Análise exploratória de dados
 
-## Análise de Novos Clientes
+## Análise da Vendas por Classe
 <img align="right" width="317"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Economy.PNG">
 <img align="right" width="317"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Regular%20.PNG">
 <img  width="317"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Deluxe.PNG">
@@ -15,7 +15,7 @@ Com os dados agrupados, utilizamos a função de janela LAG para encontrar novos
 - Novos Clientes Ano Anterior<br>
 - Variação de novos clientes entre períodos <br>
 <br>
-<a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL">Clique aqui</a> e acesse o script SQL no Github.
+<a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
 Analisando a variação de novos clientes entre períodos, é possível identificar em 2013, um crescimento mensal muito acima da variação de 2012, sendo necessário aprofundar a análise e identificar de onde está vindo este grande crescimento de novos clientes.
 
