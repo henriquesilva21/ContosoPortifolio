@@ -10,7 +10,7 @@ Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Regular.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Economy.PNG">
 Para identificar as tendencias, primeiro foi necessário agrupar as vendas por classe do produto, porém é possível o mesmo resultado utilizando outras técnicas. Nas colsultas SQL criadas com o nome Class type, identificamos comportamentos diferentes em cada classe de produto, agrupando por classe é filtrando por ano.
-Com os dados agrupados, utilizamos a função SUM para somar as vendas e analizar o desempenho de cada classe em cada ano correspondente, permitindo os seguintes informações: <br><br>
+Com os dados agrupados, utilizamos a função SUM para somar a quantidade das vendas e analizar o desempenho de cada classe em cada ano correspondente, permitindo os seguintes informações: <br><br>
 - As vendas da classe Economy apresentou crescimento consistente de 2007 a 2009. <br>
 - A classe Regular onde se concentra a maioria das vendas aprensentou uma queda brusca bem preucupante entre 2007 e 2008 ainda continuou caindo em 2009. <br>
 - A classe Deluxe tambem aprensentou queda menos brusca mas ainda sim uma queda consistente entre 2007 a 2009. <br>
