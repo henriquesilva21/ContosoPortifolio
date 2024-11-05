@@ -14,7 +14,7 @@ Com os dados agrupados, utilizamos a função SUM para somar as vendas e analiza
 - As vendas da classe Economica apresentou crescimento consistente de 2007 a 2009. <br>
 - A classe Regular onde se concentra a maioria das vendas aprensentou uma queda brusca bem preucupante entre 2007 e 2008 ainda continuou caindo em 2009. <br>
 - A classe de Luxo tambem aprensentou queda menos brusca mas ainda sim uma queda consistente entre 2007 a 2009. <br>
-- No geral ouve uma grande queda nas vendas 2007 a 2008 de 2008 a 2009 o que pode ter sido causado por fatores economicos o que explicaria o aumento da classe Economica.<br>
+- No geral ouve uma grande queda nas vendas 2007 a 2008  de  2008 a 2009 o que pode ter sido causado por fatores economicos o que explicaria o aumento da classe Economica.<br>
 <br>
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
