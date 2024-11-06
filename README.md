@@ -29,7 +29,7 @@ Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas v
 -  O canal Online e o unico  canal de vendas que teve um crescimento de forma constante e foi contra a tendencia geral de queda.<br>
 - Reseller diferente do que era a tendencia, aprensentou um pequeno crescimento de 2007 a 2008 mas eventualmente começou cair em 2009. <br>
 - Catalog onde se concentra a menor parte do valor das vendas é como a maioria dos canais de venda tambem seguiu a tendencia de queda. <br>
-<a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+<a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/SalesChannel" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
 
