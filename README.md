@@ -19,7 +19,7 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
-## Variação de novos clientes entre períodos
+## Analise do valor das vendas por canal de vendas
 <img align="right" width="500" height="320" src="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL">
 Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
 Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
