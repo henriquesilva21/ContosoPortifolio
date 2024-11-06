@@ -20,7 +20,9 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 
 <br><br>
 ## Analise do valor das vendas por canal de vendas
-<img align="right" width="500" height="320" src="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL">
+<img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202009.PNG">
+<img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202008.PNG">
+<img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202007.PNG">
 Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
 Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
 - Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623% <br>
