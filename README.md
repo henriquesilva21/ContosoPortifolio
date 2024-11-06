@@ -17,8 +17,6 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 - No geral ouve uma grande queda nas vendas 2007 a 2008 se repetindo em 2008 a 2009 o que pode ter sido causado por fatores economicos o que explicaria o aumento da classe Economy.<br>
 <br>
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
-<br><br>
-Analisando a variação de novos clientes entre períodos, é possível identificar em 2013, um crescimento mensal muito acima da variação de 2012, sendo necessário aprofundar a análise e identificar de onde está vindo este grande crescimento de novos clientes.
 
 <br><br>
 ## Variação de novos clientes entre períodos
