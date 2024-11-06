@@ -24,14 +24,11 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202008.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202007.PNG">
 Analisando a variação das vendas agrupadas por canal de vendas, quando comparados ano a ano constata-se uma queda em todos os canais de vendas, exceto o canal Online que apresentou crescimento. 
-Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas vendas é observar um objeto que destoa da tendencia e importante, o que nos permitiu concluir que: <br><br>
-- Store e o canal aonde se concentra a metade de todo o valor das vendas, sofreu com quedas consecultivas como a maioria dos canais de vendas de 2007 a 2009 <br>
-- Estados Unidos teve o maior crescimento cumulativo de clientes - aproximadamente 5050 <br>
-- Apenas os Estados Unidos tiveram um crescimento maior que todos países da Europa juntos, sendo a América do Norte o principal mercado de atuação da empresa.
-- Todos países europeus dobraram ou superaram sua base de novos clientes. <br>
-- Austrália, apesar de não ter um crescimento comparável com Europa e América do Norte, aumentou sua base de novos clientes em quase 50%, sendo um ótimo resultado em 2013. <br>
-
-<br>
+Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas vendas é observar um objeto que destoa da tendencia e importante, o que nos permitiu. concluir que: <br><br>
+- Store e o canal aonde se concentra a metade de todo o valor das vendas do ano, sofreu com quedas consecultivas como a maioria dos canais de vendas de 2007 a 2009. <br>
+-  O canal Online e o unico  canal de vendas que teve um crescimento de forma constante e foi contra a tendencia geral de queda.<br>
+- Reseller diferente do que era a tendencia, aprensentou um pequeno crescimento de 2007 a 2008 mas eventualmente começou cair em 2009. <br>
+- Catalog onde se concentra a menor parte do valor das vendas é como a maioria dos canais de venda tambem seguiu a tendencia de queda. <br>
 <a href="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/SQL/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
