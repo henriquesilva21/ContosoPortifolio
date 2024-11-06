@@ -23,9 +23,9 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202009.PNG">
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202008.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202007.PNG">
-Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
-Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
-- Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623% <br>
+Analisando a variação das vendas agrupadas por canal de vendas, quando comparados ano a ano constata-se uma queda em todos os canais de vendas, exceto o canal Online que apresentou crescimento. 
+Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas vendas é observar um objeto que destoa da tendencia e importante, o que nos permitiu concluir que: <br><br>
+- Store e o canal aonde se concentra a metade de todo o valor das vendas, sofreu com quedas consecultivas como a maioria dos canais de vendas de 2007 a 2009 <br>
 - Estados Unidos teve o maior crescimento cumulativo de clientes - aproximadamente 5050 <br>
 - Apenas os Estados Unidos tiveram um crescimento maior que todos países da Europa juntos, sendo a América do Norte o principal mercado de atuação da empresa.
 - Todos países europeus dobraram ou superaram sua base de novos clientes. <br>
