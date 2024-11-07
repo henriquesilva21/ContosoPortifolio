@@ -33,7 +33,7 @@ Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas v
 <br><br>
 
 ## Dashboard Power BI
-<img align="right" width="500"  src="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+<img align="right" width="500"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Ferramentas/Contoso%20Power%20BI.PNG">
 Seguindo a idéia que SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, desenvolvi um dashboard focado na análise dos clientes novos e recorrentes da mesma base de dados AdventureWorks.
 Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
