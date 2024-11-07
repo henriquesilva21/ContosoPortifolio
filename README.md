@@ -34,7 +34,7 @@ Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas v
 
 ## Dashboard Power BI
 <img align="right" width="500"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Ferramentas/Contoso%20Power%20BI.PNG">
-Seguindo a idéia que SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, desenvolvi um dashboard focado na análise dos clientes novos e recorrentes da mesma base de dados AdventureWorks.
+O SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, então desenvolvi um dashboard com informações visuais mais detalhadas do numero de vendas por classe de produto dos canais de vendas é categoria de produtos.
 Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
  - A maioria dos clientes a partir de 2013 é novo. <br>
