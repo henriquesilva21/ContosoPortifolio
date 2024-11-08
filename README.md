@@ -37,7 +37,7 @@ Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas v
 O SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, então desenvolvi um dashboard com informações visuais mais detalhadas do numero de vendas por classe de produto dos canais de vendas é categoria de produtos.
 Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
- - O senario e de queda . <br>
+ - O senario e de queda onde se apresentou um crescimento das vendas dos produtos na classe Economy de 2007 a 2008 crescendo 32% ao ano e crescendo 56,8% 2008 a 2009 . <br>
  - Além da quantidade de clientes novos, a receita trazida por clientes novos também é a maior fatia do total.<br>
  - Os clientes novos não são a maioria para todos países e períodos. Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
 <br><br>
