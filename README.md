@@ -5,7 +5,7 @@ Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é
 
 # Análise exploratória de dados
 
-## Análise da Vendas por Classe
+## Análise da Vendas por Classe de Produto
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Deluxe.PNG">
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Regular.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Economy.PNG">
@@ -19,7 +19,7 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
-## Analise do valor das vendas por canal de vendas
+## Analise do Valor das Vendas por Canal de Vendas
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202009.PNG">
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202008.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202007.PNG">
