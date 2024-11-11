@@ -32,18 +32,18 @@ Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas v
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/SalesChannel" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
 
-## Dashboard Power BI
+## Dashboard POWER BI
 <img align="right" width="500"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Ferramentas/Contoso%20Power%20BI.PNG">
 O SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, então desenvolvi um dashboard com informações visuais mais detalhadas do numero de vendas por classe de produto dos canais de vendas é categoria de produtos.
-Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
+Como o POWER BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
- -  . <br>
- - Além da quantidade de clientes novos, a receita trazida por clientes novos também é a maior fatia do total.<br>
- - Os clientes novos não são a maioria para todos países e períodos. Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
+ - Não ouve apenas uma queda nas vendas mas tambem uma migração dos clientes para os produtos da classe Economy. <br>
+ - Fazendo uma analise mais detalhada no POWER BI filtrando por ano e depois separendo pelos meses do ano a classe Economy apresenta menos vendas nos tres primeiros meses para depois apresentar um periodo de crescimento no quarto mes se mantendo estavel no restante do ano .<br>
+ - A classe Deluxe apresenta a mesma caracteristica da classe Economy tendo menos venda nos tres primeiros meses mas tendo a diferença de um crescimento contante no restante do ano com exceção de 2009.
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://app.powerbi.com/groups/me/reports/9e354a1c-d331-4bb7-a5bf-d5fd53de7e96/ReportSectionf1b66389b906b217c252?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o conglomerado Contoso Corporation.
 <br>
-<a href="https://github.com/BruceFonseca2/AdventureWorksPortfolio/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/Contoso%20power%20BI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
 
 ## Ferramentas e linguagens utilizadas
