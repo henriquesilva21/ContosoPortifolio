@@ -38,7 +38,7 @@ O SQL não é a melhor ferramenta para uma análise dinâmica e visual de inform
 Como o POWER BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
 Com esta análise, chegamos as seguintes conclusões:<br>
  - Não ouve apenas uma queda nas vendas mas tambem uma migração dos clientes para os produtos da classe Economy. <br>
- - Fazendo uma analise mais detalhada no POWER BI filtrando por ano e depois separendo pelos meses do ano a classe Economy apresenta menos vendas nos tres primeiros meses para depois apresentar um periodo de crescimento no quarto mes se mantendo estavel no restante do ano .<br>
+ - Fazendo uma analise mais detalhada no POWER BI filtrando por ano e depois separando pelos meses do ano a classe Economy apresenta menos vendas nos tres primeiros meses para depois apresentar um periodo de crescimento no quarto mes se mantendo estavel no restante do ano .<br>
  - A classe Deluxe apresenta a mesma caracteristica da classe Economy tendo menos venda nos tres primeiros meses mas tendo a diferença de um crescimento contante no restante do ano com exceção de 2009.
 <br><br>
 <a href="https://app.powerbi.com/groups/me/reports/9e354a1c-d331-4bb7-a5bf-d5fd53de7e96/ReportSectionf1b66389b906b217c252?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o conglomerado Contoso Corporation.
