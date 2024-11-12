@@ -1,5 +1,5 @@
 # Análise preliminar das vendas Contoso Corporation em SQL
-Utilizando o banco de dados Contoso, empresa imaginária de conglomerado fabrico global fictício Contoso Corporation, iniciamos uma análise para entender a evolução das vendas ao longo do tempo, principalmente entre 2007 a 2009. O objetivo inicial é fazer uma análise exploratória das vendas dos produtos da Contoso Corporation, entendendo as segmentações, se houve evolução na base de vendas e onde está o maior impacto desta evolução.
+Utilizando o banco de dados Contoso, empresa imaginária de conglomerado de fabrico global fictício Contoso Corporation, iniciamos uma análise para entender a evolução das vendas ao longo do tempo, principalmente entre 2007 e 2009. O objetivo inicial é fazer uma análise exploratória das vendas dos produtos da Contoso Corporation, entendendo as segmentações, se houve evolução na base de vendas e onde está o maior impacto desta evolução.
 Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é possível executar cada consulta SQL utilizada nesta análise e obter os mesmos resultados apresentados.
 <br><br>
 
@@ -9,12 +9,12 @@ Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Deluxe.PNG">
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Regular.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Class%20type/Class%20type%20Economy.PNG">
-Para identificar as tendencias, primeiro foi necessário agrupar as vendas por classe do produto, porém é possível o mesmo resultado utilizando outras técnicas. Nas colsultas SQL criadas com o nome Class type, identificamos comportamentos diferentes em cada classe de produto, agrupando por classe é filtrando por ano.
-Com os dados agrupados, utilizamos a função SUM para somar a quantidade das vendas e analizar o desempenho de cada classe em cada ano correspondente, permitindo os seguintes informações: <br><br>
-- As vendas da classe Economy apresentou crescimento consistente de 2007 a 2009. <br>
-- A classe Regular onde se concentra a maioria das vendas aprensentou uma queda brusca bem preucupante entre 2007 e 2008 ainda continuou caindo em 2009. <br>
-- A classe Deluxe tambem aprensentou queda, menos brusca mas ainda sim uma queda consistente entre 2007 a 2009. <br>
-- No geral ouve uma grande queda nas vendas 2007 a 2008 se repetindo em 2008 a 2009 o que pode ter sido causado por fatores economicos o que explicaria o aumento da classe Economy.<br>
+Para identificar as tendências, primeiro foi necessário agrupar as vendas por classe do produto, porém é possível o mesmo resultado utilizando outras técnicas. Nas consultas SQL criadas com o nome Class type, identificamos comportamentos diferentes em cada classe de produto, agrupando por classe e filtrando por ano.
+Com os dados agrupados, utilizamos a função SUM para somar a quantidade das vendas e analisar o desempenho de cada classe em cada ano correspondente, permitindo as seguintes informações: <br><br>
+- As vendas da classe Economy apresentaram crescimento consistente de 2007 a 2009. <br>
+- A classe Regular, onde se concentra a maioria das vendas, apresentou uma queda brusca bem preocupante entre 2007 e 2008 e ainda continuou caindo em 2009. <br>
+- A classe Deluxe também apresentou queda, menos brusca, mas ainda sim uma queda consistente entre 2007 e 2009. <br>
+- No geral, houve uma grande queda nas vendas de 2007 a 2008, se repetindo em 2008 a 2009, o que pode ter sido causado por fatores econômicos, o que explicaria o aumento da classe Economy.<br>
 <br>
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/Class%20Type">Clique aqui</a> e acesse o script SQL no Github.
 
