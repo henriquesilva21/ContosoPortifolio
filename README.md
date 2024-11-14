@@ -23,23 +23,23 @@ Com os dados agrupados, utilizamos a função SUM para somar a quantidade das ve
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202009.PNG">
 <img align="right" width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202008.PNG">
 <img  width="260"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/SalesChannel/SalesChannel%202007.PNG">
-Analisando a variação das vendas agrupadas por canal de vendas, quando comparados ano a ano constata-se uma queda em todos os canais de vendas, exceto o canal Online que apresentou crescimento. 
-Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas vendas é observar um objeto que destoa da tendencia e importante, o que nos permitiu. concluir que: <br><br>
-- Store e o canal aonde se concentra a metade de todo o valor das vendas do ano, sofreu com quedas consecultivas como a maioria dos canais de vendas de 2007 a 2009. <br>
--  O canal Online e o unico  canal de vendas que teve um crescimento de forma constante e foi contra a tendencia geral de queda.<br>
-- Reseller diferente do que era a tendencia, aprensentou um pequeno crescimento de 2007 a 2008 mas eventualmente começou cair em 2009. <br>
-- Catalog onde se concentra a menor parte do valor das vendas é como a maioria dos canais de venda tambem seguiu a tendencia de queda. <br>
+Analisando a variação das vendas agrupadas por canal de vendas, quando comparadas ano a ano, constata-se uma queda em todos os canais de vendas, exceto o canal Online, que apresentou crescimento. 
+Filtramos os canais de venda por ano de 2007 a 2009, tendo uma queda geral nas vendas, ao observar um objeto que destoa da tendência e importante, o que nos permitiu. Concluí que: <br><br>
+- Store, o canal onde se concentra a metade de todo o valor das vendas do ano, sofreu com quedas significativas como a maioria dos canais de vendas de 2007 a 2009. <br>
+-  O canal Online foi o único canal de vendas que teve um crescimento constante e foi contra a tendência geral de queda.<br>
+- Reseller diferente do que era a tendência, apresentou um pequeno crescimento de 2007 a 2008, mas começou eventualmente a cair em 2009. <br>
+- Catalog onde se concentra a menor parte do valor das vendas é como a maioria dos canais de venda também seguiu a tendência de queda. <br>
 <a href="https://github.com/henriquesilva21/ContosoPortifolio/tree/main/SQL/SalesChannel" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
 
 ## Dashboard POWER BI
 <img align="right" width="500"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Ferramentas/Contoso%20Power%20BI.PNG">
-O SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, então desenvolvi um dashboard com informações visuais mais detalhadas do numero de vendas por classe de produto dos canais de vendas é categoria de produtos.
-Como o POWER BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
-Com esta análise, chegamos as seguintes conclusões:<br>
- - Não ouve apenas uma queda nas vendas mas tambem uma migração dos clientes para os produtos da classe Economy. <br>
- - Fazendo uma analise mais detalhada no POWER BI filtrando por ano e depois separando pelos meses do ano a classe Economy apresenta menos vendas nos tres primeiros meses para depois apresentar um periodo de crescimento no quarto mes se mantendo estavel no restante do ano .<br>
- - A classe Deluxe apresenta a mesma caracteristica da classe Economy tendo menos venda nos tres primeiros meses mas tendo a diferença de um crescimento contante no restante do ano com exceção no ano 2009.
+O SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, então desenvolvi um dashboard com informações visuais mais detalhadas do número de vendas por classe de produto, dos canais de vendas e categoria de produtos.
+Como o POWER BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo ao usuário total interação com a ferramenta, fiz uma análise exploratória de fácil visualização com os dados.<br>
+Com esta análise, chegamos às seguintes conclusões:<br>
+ - Não houve apenas uma queda nas vendas, mas também uma migração dos clientes para os produtos da classe Economy. <br>
+ - Fazendo uma análise mais detalhada no POWER BI, filtrando por ano e depois separando pelos meses do ano, a classe Economy apresenta menos vendas nos três primeiros meses para depois apresentar um período de crescimento no quarto mês, se mantendo estável no restante do ano.<br>
+ - A classe Deluxe apresenta a mesma característica da classe Economy tendo menos venda nos três primeiros meses, mas tendo a diferença de um crescimento constante no restante do ano, com exceção no ano 2009.
 <br><br>
 <a href="https://app.powerbi.com/groups/me/reports/9e354a1c-d331-4bb7-a5bf-d5fd53de7e96/ReportSectionf1b66389b906b217c252?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o conglomerado Contoso Corporation.
 <br>
