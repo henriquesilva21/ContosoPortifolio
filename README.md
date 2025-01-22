@@ -1,5 +1,5 @@
 # Análise preliminar das vendas Contoso Corporation em SQL
-Utilizando o banco de dados Contoso, empresa imaginária de conglomerado de fabrico global fictício Contoso Corporation, iniciamos uma análise para entender a evolução das vendas ao longo do tempo, principalmente entre 2007 e 2009. O objetivo inicial é fazer uma análise exploratória das vendas dos produtos da Contoso Corporation, entendendo as segmentações, se houve evolução na base de vendas e onde está o maior impacto desta evolução.
+Utilizando o banco de dados Contoso da empresa imaginária de conglomerado de fabrico global fictício Contoso Corporation, iniciamos uma análise para entender a evolução das vendas ao longo do tempo, principalmente entre 2007 e 2009. O objetivo inicial é fazer uma análise exploratória das vendas dos produtos da Contoso Corporation, entendendo as segmentações, se houve evolução na base de vendas e onde está o maior impacto desta evolução.
 Fazendo o download do arquivo ContosoRetailDW.bak e anexando-o no SQL Server, é possível executar cada consulta SQL utilizada nesta análise e obter os mesmos resultados apresentados.
 <br><br>
 
